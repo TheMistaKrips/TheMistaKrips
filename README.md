@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themistakrips" alt="themistakrips" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Food Delivery App**
+- 🔭 I’m currently working on **Paradox game**
 
-- 🌱 I’m currently learning **NestJs, NextJs, Asp.Net Core, React NAtive**
+- 🌱 I’m currently learning **NestJs, NextJs, Asp.Net Core, React Native**
 
 - 👯 I’m looking to collaborate on **Front-End, AI, Back-End**
 
